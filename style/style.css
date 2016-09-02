@@ -14,9 +14,10 @@ body {
     outline: 1px solid transparent;
     margin: auto;
     position: absolute;
-    top: -350px; left: 0; bottom: 0; right: 0;
-    width: 139px;
-    height: 150px;
+    left: 50%;
+    top: 50%;
+    margin-left: -70px;
+    margin-top: -200px;
     background: rgb(208, 219, 219);
     border-left: 10px solid rgb(70, 70, 70);
     border-right: 10px solid rgb(70, 70, 70);
